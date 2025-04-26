@@ -1,0 +1,6 @@
+# List of dependencies for the Python project
+
+# Example dependencies
+# numpy==1.21.0
+# pandas==1.3.0
+# Add your dependencies below

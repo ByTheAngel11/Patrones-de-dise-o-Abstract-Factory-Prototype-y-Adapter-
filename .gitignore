@@ -36,3 +36,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Python ###
+__pycache__/
+*.pyc
+src/python/
